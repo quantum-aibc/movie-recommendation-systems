@@ -147,19 +147,3 @@ news-recommender/
 ├── README.md
 Example Repository:
 News-Recommendation-System
-General Tips for Your GitHub Projects
-Create an Informative README:
-
-Include a clear description, features, technologies, and instructions for running the project.
-Add Notebooks:
-
-Showcase exploratory data analysis (EDA) and model building in Jupyter notebooks.
-Use Version Control:
-
-Commit changes regularly and write meaningful commit messages.
-Provide Deployment Instructions:
-
-Include requirements.txt or environment.yml for easy setup.
-Document Results:
-
-Add screenshots, graphs, or metrics to illustrate the system’s performance.
